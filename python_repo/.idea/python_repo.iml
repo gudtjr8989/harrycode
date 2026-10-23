@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/prj01/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj02/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj03/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj04/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj05/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj07/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj08/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj09/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj10/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj11/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj12/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prj13/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/prjTicTac/.venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings" />
+  <component name="PyDocumentationSettings" />
+  <component name="ReSTService" />
+  <component name="TestRunnerService" />
+</module>
